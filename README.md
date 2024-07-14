@@ -12,7 +12,9 @@
 
 # Dependencies:
    *Python 3.12.4*
+   
    *asyncio (for asynchronous operations)* 
+   
    *HTML Files*
 
 # How to run the server:
