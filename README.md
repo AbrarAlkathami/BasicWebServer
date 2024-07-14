@@ -17,11 +17,11 @@
 - Singleton Pattern Web Server: The server is implemented using the Singleton pattern to ensure there is only one instance of the web server running at any time.
 
 ## Dependencies:
-   `Python 3.12.4`
+- Python 3.12.4
    
-   `asyncio (for asynchronous operations)`
+- asyncio (for asynchronous operations)
    
-   `HTML Files`
+- HTML Files
 
 ## How to run the server:
 
