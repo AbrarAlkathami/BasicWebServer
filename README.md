@@ -1,5 +1,5 @@
 # BasicWebServer
-** `This document provides an overview of a basic web server implemented using advanced Python features. It explains design choices, functionality, how to run the server, dependencies required, and includes instructions for running test units.`** 
+`This document provides an overview of a basic web server implemented using advanced Python features. It explains design choices, functionality, how to run the server, dependencies required, and includes instructions for running test units.`
 
 
 # Design choices: 
