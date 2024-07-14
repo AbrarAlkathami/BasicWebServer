@@ -23,7 +23,7 @@
    `HTML Files`
 
 # How to run the server:
-`
+
     `1- Download the directory containing the webserver.py file.`
     `2- Open the directory in a Python-compatible IDE.`
     `3- Ensure all required HTML files are downloaded and placed in the same directory as webserver.py`
@@ -31,7 +31,7 @@
     `5- Make sure Python 3.12.4 is installed.`
     `6- Install asyncio if not already available (pip install asyncio).`
     `7- Execute the webserver.py script within your IDE or from the command line.`
-    `
+    
 
 # Testing
 `*Test Requests:* 
